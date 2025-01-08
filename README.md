@@ -1,4 +1,4 @@
-SIMON SAYS GAME USING JAVASCRIPT 
-This template provides a minimal setup to get css working in Vite with HMR and some ESLint rules.
+SPOTIFY CLONE USING HTML, CSS, BOOTSTRAP, FEATURES AND MDN.
 
-Currently.
+SIMON SAYS GAME USING JAVASCRIPT.
+
